@@ -323,3 +323,4 @@ Copy the contents of PTAM/Build/Win32 to PTAM; then open
 PTAM.sln, which contains projects to build the Camera Calibrator and
 the Tracker. Edit include and lib directories as appropriate. Good luck!
 
+en lille ændring
