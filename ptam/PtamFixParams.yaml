@@ -1,4 +1,4 @@
-gui: False
+gui: True
 ImageSizeX: 640
 ImageSizeY: 480
 ARBuffer_width: 1200
