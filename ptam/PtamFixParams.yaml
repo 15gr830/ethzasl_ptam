@@ -1,4 +1,4 @@
-gui: True
+gui: False
 ImageSizeX: 640
 ImageSizeY: 480
 ARBuffer_width: 1200
@@ -31,11 +31,10 @@ FASTMethod: OAST16
 MaxStereoInitLoops: 4
 AutoInitPixel: 20
 
-# --- bluefox - low distort lens  --- 
-Cam_fx: 0.795574
-Cam_fy: 1.25149
-Cam_cx: 0.50417
-Cam_cy: 0.51687
-Cam_s: 0.482014
+# --- Creative - low distort lens  --- 
+Cam_fx: 1.04818
+Cam_fy: 1.40499
+Cam_cx: 0.485705
+Cam_cy: 0.548455
+Cam_s: 0.00567584
 # -----------------------------------
-
