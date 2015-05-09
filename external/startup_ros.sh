@@ -11,7 +11,7 @@
 ### END INIT INFO
 
 source /opt/ros/indigo/setup.bash
-source $HOME/ros/devel/setup.bash
+source /home/odroid/ros/devel/setup.bash
 export ROS_IP=$(hostname -I)
 export ROS_MASTER_URI=http://192.168.1.149:11311
 #export ROS_MASTER_URI=http://$ROS_IP:11311
