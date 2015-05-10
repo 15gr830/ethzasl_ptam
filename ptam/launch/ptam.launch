@@ -4,5 +4,6 @@
         <remap from="pose" to="pose"/>
 	    <rosparam file="$(find ptam)/PtamFixParams.yaml"/>
     </node>
+    
 </launch>
 
